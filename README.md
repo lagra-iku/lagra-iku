@@ -27,7 +27,7 @@ I am a graduate of Electrical Electronics Engineering who loves to code with the
 - An IT Consumables management app using ServiceNow
 
 ### 📫 How to reach me: ...
-<a href="http://www.linkedin.com/in/grace-ikujuni">LinkedIn</a> <a href="https://twitter.com/Lagra_Iku">twitter</a>
+<a href="http://www.linkedin.com/in/grace-ikujuni">My LinkedIn</a>   <a href="https://twitter.com/Lagra_Iku">My Twitter</a>
 
 <!--
 **lagra-iku/lagra-iku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
