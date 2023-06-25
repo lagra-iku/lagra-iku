@@ -10,6 +10,7 @@ I am a graduate of Electrical Electronics Engineering who loves to code with the
 |Automate paper-based forms using low code solutions | Use WordPress to build websites and in-house apps | Develop front end using Angularjs, Rest APIs and much more |
 
 ### Skills up my sleeve
+<img src="mySkills.png" alt="My skills in image" width="500"/> 
 
 ### My Learning Journey thus far
 1. <a href="https://www.linkedin.com/in/hanson-udy-akpan-4b47909/">Udy Akpan</a>: Introduced me to low-code solutions using **InfoPath** and **SharePoint 2013**. Currently, I can build apps with low-code platforms such as **OutSystems, Nintex and Power Apps.**
