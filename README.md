@@ -16,7 +16,7 @@ I am a graduate of Electrical Electronics Engineering who loves to code with the
 1. <a href="https://www.linkedin.com/in/hanson-udy-akpan-4b47909/">Udy Akpan</a>: Introduced me to low-code solutions using **InfoPath** and **SharePoint 2013**. Currently, I can build apps with low-code platforms such as **OutSystems, Nintex and Power Apps.**
 2. <a href="https://www.linkedin.com/in/nsisongeffiong/">Nsisong Effiong</a>: Introduced me to static website development using **HTML5, CSS and WordPress**.
 3. Clarence Ifudu: Throw me to the sharks with a request to build an **AngularJs** app hosted on SharePoint using **Rest API** in 3 days and I delivered 😂.
-4. <a href="https://hevodata.com/learn/author/ofem-eteng/">Ofem Eteng</a>: Introduced me to front-end development, containers and generally my flare for wanting to pursue **Software Engineer**. With him, I realised there was more to learn and achieve if only I could code.
+4. <a href="https://hevodata.com/learn/author/ofem-eteng/">Ofem Eteng</a> && <a href="https://www.linkedin.com/in/abdulazeezbolarinwa/">Abdulazeez Bolarinwa </a>: Introduced me to front-end development, containers, hosting outside SharePoint and generally my flare for wanting to pursue **Software Engineer**. With them, I realised there was more to learn and achieve if only I could code.
 
 🌱 I’m currently learning ...
 - Software Engineering with ALX Africa
