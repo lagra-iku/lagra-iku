@@ -1,3 +1,5 @@
+![Cover image](https://github.com/lagra-iku/lagra-iku/blob/main/Readme%20Cover%20Page.png)
+
 ### Hi there 👋
 
 <!--
