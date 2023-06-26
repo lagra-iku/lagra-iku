@@ -1,7 +1,7 @@
 ![Cover image](https://github.com/lagra-iku/lagra-iku/blob/main/Readme%20Cover%20Page.png)
 
 ### 👋 Hi there, want to know more about me? Keep scrolling...
-I am a graduate of Electrical Electronics Engineering who loves to code with the goal of becoming a Software Engineer
+I am a graduate of Electrical Electronics Engineering who loves to code with the goal of becoming a Software Engineer that develops software to automate your everyday repetitive tasks
 
 
 ### ✔️ My areas of expertise are
