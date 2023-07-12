@@ -39,16 +39,17 @@ I am a graduate of Electrical Electronics Engineering who loves to code with the
   <a href="http://www.linkedin.com/in/grace-ikujuni">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+ <!-- <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a>-->
   <a href="https://twitter.com/Lagra_Iku">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lagra-iku&theme=tokyonight" alt="Youtube Badge"/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lagra-iku&theme=apprentice&fire=EB5454)](https://git.io/streak-stats)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lagra-iku&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lagra-iku&theme=tokyonight)](https://git.io/streak-stats)
+
+<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lagra-iku&count_private=true&theme=tokyonight&showicons=true)]()-->
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lagra-iku&langs_count=5&theme=tokyonight)]()
 
 <!--
