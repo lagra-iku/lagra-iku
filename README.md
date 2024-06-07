@@ -22,16 +22,15 @@ I am a graduate of Electrical Electronics Engineering who loves to code with the
 2. <a href="https://www.linkedin.com/in/nsisongeffiong/">Nsisong Effiong</a>: Introduced me to static website development using **HTML5, CSS and WordPress**.
 3. Clarence Ifudu: Threw me to the sharks with a request to build an **AngularJs** app hosted on SharePoint using **Rest API** in 3 days and I delivered 😂.
 4. <a href="https://hevodata.com/learn/author/ofem-eteng/">Ofem Eteng</a> && <a href="https://www.linkedin.com/in/abdulazeezbolarinwa/">Abdulazeez Bolarinwa </a>: Introduced me to front-end development, containers, hosting outside SharePoint and generally my flare for wanting to pursue **Software Engineer**. With them, I realised there was more to learn and achieve if only I could code.
+5. <a href="https://www.alxafrica.com/">ALX Africa</a>: Completed a one year software engineering certificate program. Milestones achieved are <a href="https://lagra-iku.github.io/aqua_manager/">AquamanagerApp</a> and <a href="https://www.youtube.com/watch?v=Gg6VSgqnTaY">CrimeWatchApp</a>
 
     🌱 I’m currently learning ...
-    - Software Engineering with ALX Africa
-    - OutSystems
-    - ServiceNow Development
+    - DevOps
 
 
 ### 🔭 I’m currently working on ...
-- A web app for chopper flight schedule management and information to be displayed on a TV using OutSystems
-- An IT Consumables management app using ServiceNow
+- A saas for hotel management
+- A webapp for managing suspects
 
 
 ### 📫 How to reach me: ...
@@ -55,8 +54,8 @@ I am a graduate of Electrical Electronics Engineering who loves to code with the
 <!--
 **lagra-iku/lagra-iku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🌱 I’m currently learning software Engineering with ALX Africa 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning software Engineering with ALX Africa 
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
